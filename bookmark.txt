@@ -1,0 +1,6 @@
+https://launchschool.com/books/ruby/read/flow_control
+https://ruby-doc.org/core-2.1.0/Array.html#method-i-uniq
+https://ruby-doc.org/core-2.6.1/Enumerator.html
+
+https://ruby-doc.org/core-2.1.0/Hash.html
+https://ruby-doc.org/core-2.1.0/Hash.html#method-i-fetch
