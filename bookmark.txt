@@ -4,3 +4,4 @@ https://ruby-doc.org/core-2.6.1/Enumerator.html
 
 https://ruby-doc.org/core-2.1.0/Hash.html
 https://ruby-doc.org/core-2.1.0/Hash.html#method-i-fetch
+https://github.com/pry/pry
